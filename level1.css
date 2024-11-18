@@ -28,13 +28,13 @@
     background-color: #E7E8D8;
     font-family: cursive;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #menu-card{
     height: 30px;
     width:350px;
-    position: relative;
-    top:15px;
-    left:580px;
     background-color: #e79866;
     font-size: 25px;
     font-weight: 700;
